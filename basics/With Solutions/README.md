@@ -1,3 +1,3 @@
-# Basics — Solution Files
+# Python Basics — Solutions
 
-This notebook contains the solution files for each exercise.
+This notebook contains the solutions to all exercises.
